@@ -3,6 +3,9 @@
 This project demonstrates how to use **Terraform** and **GitHub Actions** to provision infrastructure on **Google Cloud Platform (GCP)**.  
 It creates a **Compute Engine Virtual Machine (VM)** and a **firewall rule** to allow incoming traffic.
 
+<img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/8c0696ac-7990-4d67-b3e6-2582ceaa2fd0" />
+
+
 ---
 
 ## 📌 Project Overview
